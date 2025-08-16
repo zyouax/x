@@ -1,2 +1,4 @@
 x.txt filter=lfs diff=lfs merge=lfs -text
 test_part1.txt filter=lfs diff=lfs merge=lfs -text
+test_part2.txt filter=lfs diff=lfs merge=lfs -text
+test_part3.txt filter=lfs diff=lfs merge=lfs -text
